@@ -7,48 +7,80 @@ This learning path contains a series of courses on the core MongoDB skills. In t
 
 
 2. Getting Started with MongoDB Atlas:
+   - Learn about MongoDB Atlas, the fully-managed multi-cloud developer data platform, its latest features, and how to deploy clusters.
+
+
 3. MongoDB and the **Document Model**
+   - Want to learn more about MongoDB and the document model? In this unit, you’ll learn how to manage MongoDB databases, collections, and documents.
+
+
 4. MongoDB **Data Modeling**
+   - Learn the basics of data modeling, the process of defining how data is stored and the relationships among different entities in your data, in MongoDB.
+
+
 5. Connecting to a MongoDB Database:
+   - Learn how to connect to MongoDB databases by using connection strings. Connection strings allow you to connect your cluster with the mongo shell, with Compass (our GUI that enables querying, optimizing and analyzing MongoDB data), and to an application.
+
+
 6. Connecting to MongoDB in Python:
+   - Learn about the Python driver for MongoDB and how to use it to connect to your Python applications.
+
+
 7. MongoDB CRUD Operations: **Insert** and **Find** Documents:
+   - Learn how to create, find, and query MongoDB documents in the mongo shell.
+
+
 8. MongoDB CRUD Operations: **Replace** and **Delete** Documents:
+   - Learn how to replace and delete documents in the mongo shell.
+
+
 9. MongoDB CRUD Operations: **Modifying** Query Results:
+
+
 10. MongoDB CRUD Operations in Python:
+
+
 11. MongoDB **Aggregation** in Python I:
+
+
 12. MongoDB **Aggregation** in Python II:
+
+
 13. MongoDB **Indexes**:
+
+
 14. MongoDB **Atlas Search**:
+
+
 15. MongoDB **Transactions**:
+
+
 16. MongoDB **Compass**:
+
+
 17. **PyMongoArrow**:
+
+
 18. MongoDB **VS Code Extension**:
    
    
 
    
-   Learn about MongoDB Atlas, the fully-managed multi-cloud developer data platform, its latest features, and how to deploy clusters.
 
 
    
-   Want to learn more about MongoDB and the document model? In this unit, you’ll learn how to manage MongoDB databases, collections, and documents.
 
 
    
-   Learn the basics of data modeling, the process of defining how data is stored and the relationships among different entities in your data, in MongoDB.
 
    
-   Learn how to connect to MongoDB databases by using connection strings. Connection strings allow you to connect your cluster with the mongo shell, with Compass (our GUI that enables querying, optimizing and analyzing MongoDB data), and to an application.
 
    
-   Learn about the Python driver for MongoDB and how to use it to connect to your Python applications.
-
-   Learn how to create, find, and query MongoDB documents in the mongo shell.
 
 
 
 
-   Learn how to replace and delete documents in the mongo shell.
+
 
 
    
