@@ -56,6 +56,8 @@ This learning path contains a series of courses on the core MongoDB skills. In t
 ### 18. MongoDB **VS Code Extension**:
    - Learn how to use the MongoDB VS Code extension to create, manage, and query MongoDB databases.
 
+**[Proof of Completion]()**
+
    
 
    
