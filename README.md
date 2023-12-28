@@ -42,7 +42,7 @@ This learning path contains a series of courses on the core MongoDB skills. In t
 
    Learn how to perform basic CRUD operations with the MongoDB Python driver.
 
-13. MongoDB **Aggregation** in Python I:
+11. MongoDB **Aggregation** in Python I:
    
    Learn how to create aggregation pipelines with Python.
    
@@ -58,19 +58,19 @@ This learning path contains a series of courses on the core MongoDB skills. In t
    
    Learn about MongoDB Atlas Search, a full text search feature that combines three systems - database, search engine, and sync mechanisms.
 
-13. MongoDB **Transactions**:
+15. MongoDB **Transactions**:
 
    Learn about ACID transactions in MongoDB and how they guarantee certain database operations happen together or not at all to ensure data integrity within the database.
 
-14. MongoDB **Compass**:
+16. MongoDB **Compass**:
    
    Learn how to create aggregation pipelines with Python.
 
-15. **PyMongoArrow**:
+17. **PyMongoArrow**:
    
    Learn how to enhance your MongoDB database’s data analytics capability using PyMongoArrow, an extension to the PyMongo library.
 
-16. MongoDB **VS Code Extension**:
+18. MongoDB **VS Code Extension**:
    
    Learn how to use the MongoDB VS Code extension to create, manage, and query MongoDB databases.
 
