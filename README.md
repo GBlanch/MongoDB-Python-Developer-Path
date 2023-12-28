@@ -40,7 +40,7 @@ This learning path contains a series of courses on the core MongoDB skills. In t
 
 10. MongoDB CRUD Operations in Python:
 
-   Learn how to perform basic CRUD operations with the MongoDB Python driver.
+    Learn how to perform basic CRUD operations with the MongoDB Python driver.
 
 11. MongoDB **Aggregation** in Python I:
    
