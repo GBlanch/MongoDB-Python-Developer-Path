@@ -39,10 +39,10 @@ This learning path contains a series of courses on the core MongoDB skills. In t
    Learn how to sort and limit query results and how to count documents in MongoDB.
 
 10. MongoDB CRUD Operations in Python:
-   
+
    Learn how to perform basic CRUD operations with the MongoDB Python driver.
 
-11. MongoDB **Aggregation** in Python I:
+13. MongoDB **Aggregation** in Python I:
    
    Learn how to create aggregation pipelines with Python.
    
