@@ -1,6 +1,8 @@
 # MongoDB-Python-Developer-Path
+
 &nbsp;
 &nbsp;
+
 This learning path contains a series of courses on the core MongoDB skills. In this path, I learnt the basics of building modern applications with Python, using MongoDB as a database.
 
 ### 1. Start Here - Intro to MongoDB:
