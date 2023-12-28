@@ -1,4 +1,4 @@
-# MongoDB-Python-Developer-Path
+# MongoDB Python Developer Path
 
 &nbsp;
 &nbsp;
