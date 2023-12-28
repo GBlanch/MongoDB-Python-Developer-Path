@@ -33,7 +33,7 @@ This learning path contains a series of courses on the core MongoDB skills. In t
       - Learn how to perform basic CRUD operations with the MongoDB Python driver.
 
 11. MongoDB **Aggregation** in Python I:
-   - Learn how to create basic aggregation pipelines with Python.
+    - Learn how to create basic aggregation pipelines with Python.
 
 12. MongoDB **Aggregation** in Python II:
    - Learn how to create aggregation pipelines that enable you to analyze and summarize data by stringing together stages that filter, sort, group, and/or transform data.
