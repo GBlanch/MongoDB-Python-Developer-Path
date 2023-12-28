@@ -33,7 +33,8 @@ This learning path contains a series of courses on the core MongoDB skills. In t
 
 9. MongoDB CRUD Operations: **Replace** and **Delete** Documents:
 
-    Learn how to replace and delete documents in the mongo shell.
+   Learn how to sort and limit query results and how to count documents in MongoDB.
+   Learn how to replace and delete documents in the mongo shell.
 
 10. MongoDB CRUD Operations: **Modifying** Query Results:
    
