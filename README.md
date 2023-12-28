@@ -5,7 +5,7 @@ This learning path contains a series of courses on the core MongoDB skills. In t
 1. Start Here - Intro to MongoDB:
    - This unit gives an overview of MongoDB fundamentals, from the document model to CRUD operations to indexing, that you will learn during the Introduction to MongoDB course.
 
-2. Getting Started with MongoDB Atlas:
+2. Getting Started with MongoDB **Atlas**:
    - Learn about MongoDB Atlas, the fully-managed multi-cloud developer data platform, its latest features, and how to deploy clusters.
 
 3. MongoDB and the **Document Model**
@@ -26,10 +26,10 @@ This learning path contains a series of courses on the core MongoDB skills. In t
 8. MongoDB CRUD Operations: **Replace** and **Delete** Documents:
    - Learn how to replace and delete documents in the mongo shell.
 
-9. MongoDB CRUD Operations: **Modifying** Query Results:
+9. MongoDB **CRUD** Operations: **Modifying** Query Results:
    - Learn how to sort and limit query results and how to count documents in MongoDB.
 
-10. MongoDB CRUD Operations in Python:
+10. MongoDB **CRUD** Operations in Python:
       - Learn how to perform basic CRUD operations with the MongoDB Python driver.
 
 11. MongoDB **Aggregation** in Python I:
