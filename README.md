@@ -44,34 +44,34 @@ This learning path contains a series of courses on the core MongoDB skills. In t
 
 11. MongoDB **Aggregation** in Python I:
    
-   Learn how to create aggregation pipelines with Python.
+    Learn how to create aggregation pipelines with Python.
    
 12. MongoDB **Aggregation** in Python II:
    
-   Learn how to create aggregation pipelines that enable you to analyze and summarize data by stringing together stages that filter, sort, group, and/or transform data.
+    Learn how to create aggregation pipelines that enable you to analyze and summarize data by stringing together stages that filter, sort, group, and/or transform data.
 
 13. MongoDB **Indexes**:
    
-   Learn how to improve MongoDB performance by learning how to create single, compound, and multikey indexes as well as how to delete indexes.
+    Learn how to improve MongoDB performance by learning how to create single, compound, and multikey indexes as well as how to delete indexes.
 
 14. MongoDB **Atlas Search**:
    
-   Learn about MongoDB Atlas Search, a full text search feature that combines three systems - database, search engine, and sync mechanisms.
+    Learn about MongoDB Atlas Search, a full text search feature that combines three systems - database, search engine, and sync mechanisms.
 
 15. MongoDB **Transactions**:
 
-   Learn about ACID transactions in MongoDB and how they guarantee certain database operations happen together or not at all to ensure data integrity within the database.
+    Learn about ACID transactions in MongoDB and how they guarantee certain database operations happen together or not at all to ensure data integrity within the database.
 
 16. MongoDB **Compass**:
    
-   Learn how to create aggregation pipelines with Python.
+    Learn how to create aggregation pipelines with Python.
 
 17. **PyMongoArrow**:
    
-   Learn how to enhance your MongoDB database’s data analytics capability using PyMongoArrow, an extension to the PyMongo library.
+    Learn how to enhance your MongoDB database’s data analytics capability using PyMongoArrow, an extension to the PyMongo library.
 
 18. MongoDB **VS Code Extension**:
    
-   Learn how to use the MongoDB VS Code extension to create, manage, and query MongoDB databases.
+    Learn how to use the MongoDB VS Code extension to create, manage, and query MongoDB databases.
 
 
