@@ -6,7 +6,6 @@ This learning path contains a series of courses on the core MongoDB skills. In t
    
    This unit gives an overview of MongoDB fundamentals, from the document model to CRUD operations to indexing, that you will learn during the Introduction to MongoDB course.
    
-
 3. Getting Started with MongoDB Atlas:
    
    Learn about MongoDB Atlas, the fully-managed multi-cloud developer data platform, its latest features, and how to deploy clusters.
