@@ -1,8 +1,11 @@
-# MongoDB-Python-Developer-Path
+# MongoDB Python Developer Path
+
+&nbsp;
+&nbsp;
 
 This learning path contains a series of courses on the core MongoDB skills. In this path, I learnt the basics of building modern applications with Python, using MongoDB as a database.
 
-## 1. Start Here - Intro to MongoDB:
+### 1. Start Here - Intro to MongoDB:
    - This unit gives an overview of MongoDB fundamentals, from the document model to CRUD operations to indexing, that you will learn during the Introduction to MongoDB course.
 
 ### 2. Getting Started with MongoDB **Atlas**:
@@ -56,7 +59,7 @@ This learning path contains a series of courses on the core MongoDB skills. In t
 ### 18. MongoDB **VS Code Extension**:
    - Learn how to use the MongoDB VS Code extension to create, manage, and query MongoDB databases.
 
-**[Proof of Completion]()**
+**[Proof of Completion](https://github.com/GBlanch/MongoDB-Python-Developer-Path/blob/main/gerry-blanch-MDBtq29j20z4.pdf)**
 
    
 
