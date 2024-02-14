@@ -3,7 +3,7 @@
 &nbsp;
 &nbsp;
 
-In these courses, I learnt the hands-on core skills of building modern applications with Python using MongoDB as a database:
+In these courses from [_MongoDB University_](https://learn.mongodb.com/), I learnt the hands-on core skills of building modern applications with Python using MongoDB as a database:
 
 ### 1. Start Here - Intro to MongoDB:
    - This unit gives an overview of MongoDB fundamentals, from the document model to CRUD operations to indexing, that you will learn during the Introduction to MongoDB course.
