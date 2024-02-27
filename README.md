@@ -61,6 +61,9 @@ In these courses from [_MongoDB University_](https://learn.mongodb.com/), I lear
 
 **[Proof of Completion](https://github.com/GBlanch/MongoDB-Python-Developer-Path/blob/main/gerry-blanch-MDBtq29j20z4.pdf)**
 
+![image](https://github.com/GBlanch/MongoDB-Python-Developer-Path/assets/136500426/5fab51bb-aeff-424b-83c8-ba409693b282)
+
+
    
 
    
